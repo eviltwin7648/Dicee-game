@@ -1,0 +1,23 @@
+body{
+  background: rgb(34, 19, 72);
+}
+.title{
+  font-family: 'Tilt Prism', cursive;
+  font-size: 10rem;
+  text-align: center;
+  margin: 0px 0px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px;
+}
+h2{
+  text-align: center;
+}
+.container div{
+  margin: 0px 20px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
